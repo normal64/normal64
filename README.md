@@ -1,4 +1,11 @@
 ### Hi there 👋
+Header
+
+About me
+
+Languages and Tools
+
+Social media
 
 <!--
 **normal64/normal64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
