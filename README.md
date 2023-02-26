@@ -16,23 +16,17 @@ Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
 ![Mysql](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql)
 
+
+Documentation
+* <a href="https://drive.google.com/drive/u/0/folders/1Ti4HoHVZMDCkfhyD-o6ehYG1IArxlLqY">Checklists</a>
+* <a href="#">Bug-Reports</a>
+* <a href="#">Test-Suites and Test-Cases</a>
+* <a href="#">SQL Queries</a>
+
 Social media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIN-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denis-poplavskii-85525219a/)
 [![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/quoi_ma_gueule/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=normal64)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**normal64/normal64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
