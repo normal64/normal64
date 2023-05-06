@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 [![Header](https://github.com/normal64/normal64/blob/main/assets/header.png)](https://normal64.github.io/prtfl/)
 
 ## I'm frontend dev and tester
@@ -16,12 +17,13 @@ Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
 ![Mysql](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql)
 
-
 Documentation
-* <a href="https://drive.google.com/drive/u/0/folders/1Ti4HoHVZMDCkfhyD-o6ehYG1IArxlLqY">Checklists</a>
-* <a href="https://drive.google.com/drive/u/0/folders/1XpSTTx2i-wZWwzAEk5kS6XqKU9Ow6la-">Bug-Reports</a>
-* <a href="https://drive.google.com/drive/u/0/folders/1rezFSwv7ImD381H84AbFKvnI1P4dh6Qi">Test-Suites and Test-Cases</a>
-* <a href="https://drive.google.com/drive/u/0/folders/1rV2RmJxDLdXS5y2cW8Y90YYjxnWtiBvr">SQL Queries</a>
+
+- <a href="https://drive.google.com/drive/u/0/folders/1Ti4HoHVZMDCkfhyD-o6ehYG1IArxlLqY">Checklists</a>
+- <a href="https://drive.google.com/drive/u/0/folders/1Y7wxPyVFolhwVwIECmYw00ToRk8fL47B">Bug reports</a>
+- <a href="https://drive.google.com/drive/u/0/folders/1rezFSwv7ImD381H84AbFKvnI1P4dh6Qi">Test-Suites and Test-Cases</a>
+- <a href="https://drive.google.com/drive/u/0/folders/1rV2RmJxDLdXS5y2cW8Y90YYjxnWtiBvr">SQL Queries</a>
+- <a href="https://drive.google.com/drive/u/0/folders/1XpSTTx2i-wZWwzAEk5kS6XqKU9Ow6la-">Jira Bug-Reports</a>
 
 Social media
 
@@ -29,4 +31,3 @@ Social media
 [![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/quoi_ma_gueule/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=normal64)](https://github.com/anuraghazra/github-readme-stats)
-
