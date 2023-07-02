@@ -19,8 +19,9 @@ Languages and Tools
 ![Selenium](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=selenium)
 ![Cypress](https://img.shields.io/badge/Cypress-090909?style=for-the-badge&logo=cypress)
 
-Documentation
+Demo autotests
 - <a href="https://github.com/normal64/grazeAutomation">Selenium</a><a href="https://github.com/normal64/x-com">Cypress</a>
+Documentation
 - <a href="https://drive.google.com/drive/u/0/folders/1Ti4HoHVZMDCkfhyD-o6ehYG1IArxlLqY">Checklists</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1Y7wxPyVFolhwVwIECmYw00ToRk8fL47B">Bug reports</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1rezFSwv7ImD381H84AbFKvnI1P4dh6Qi">Test-Suites and Test-Cases</a>
