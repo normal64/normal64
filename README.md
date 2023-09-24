@@ -32,6 +32,6 @@ Documentation
 Social media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIN-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denis-poplavskii-85525219a/)
-[![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/quoi_ma_gueule/)
+[![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/adhdenis/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=normal64)](https://github.com/anuraghazra/github-readme-stats)
