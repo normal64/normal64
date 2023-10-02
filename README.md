@@ -20,7 +20,7 @@ Languages and Tools
 ![Cypress](https://img.shields.io/badge/Cypress-090909?style=for-the-badge&logo=cypress)
 
 Demo autotests
-- <a href="https://github.com/normal64/grazeAutomation">Selenium</a><a href="https://github.com/normal64/x-com">Cypress</a><a href="https://github.com/normal64/Epam-webriverIO-H">WDIO</a> T
+- <a href="https://github.com/normal64/grazeAutomation">Selenium</a><a href="https://github.com/normal64/x-com">Cypress</a><a href="https://github.com/normal64/Epam-webriverIO-H">WDIO</a> 
 
 Documentation
 - <a href="https://drive.google.com/drive/u/0/folders/1Ti4HoHVZMDCkfhyD-o6ehYG1IArxlLqY">Checklists</a>
