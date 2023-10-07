@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/normal64/normal64/blob/main/assets/header.png)](https://normal64.github.io/prtfl/)
 
-## I'm frontend dev and tester
+## I'm QA
 
 Languages and Tools
 
