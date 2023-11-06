@@ -29,6 +29,7 @@ Documentation
 - <a href="https://drive.google.com/drive/u/0/folders/1Ti4HoHVZMDCkfhyD-o6ehYG1IArxlLqY">Checklists</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1Y7wxPyVFolhwVwIECmYw00ToRk8fL47B">Bug reports</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1rezFSwv7ImD381H84AbFKvnI1P4dh6Qi">Test-Suites and Test-Cases</a>
+- <a href="https://drive.google.com/drive/u/0/folders/1XDyY08d7YnCAZeOHVHZPGhe0rWfdlyPl">Test plans</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1rV2RmJxDLdXS5y2cW8Y90YYjxnWtiBvr">SQL Queries</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1XpSTTx2i-wZWwzAEk5kS6XqKU9Ow6la-">Jira Bug-Reports</a>
 
