@@ -2,7 +2,14 @@
 
 [![Header](https://github.com/normal64/normal64/blob/main/assets/header.png)](https://normal64.github.io/prtfl/)
 
-## I'm QA
+## I'm QA 
+I spend time on passing trainings,
+courses and developing QA skills on top of my
+web dev knowledge. Use my theoretical
+knowledge to create test cases, bug reports,
+API testing, manual testing, getting handy with
+CI/CD etc. Covering web pages with autotests
+and uploading examples on my GitHub profile
 
 Languages and Tools
 
