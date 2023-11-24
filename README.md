@@ -10,6 +10,21 @@ knowledge to create test cases, bug reports,
 API testing, manual testing, getting handy with
 CI/CD etc. Covering web pages with autotests
 and uploading examples on my GitHub profile
+## Skills
+
+- Analysis of project documentation
+- Working with test documentation (checklists, test-cases)
+- Working with bug tracking systems (JIRA)
+- Communication with teammates
+- Software Testing:
+  - Testing new functionality
+  - Regression testing
+  - Installation testing
+  - UI / UX testing
+  - Testing localization
+  - Usability testing
+  - Exploratory testing
+  - Ad-hoc testing
 
 Languages and Tools
 
@@ -27,10 +42,11 @@ Languages and Tools
 ![Cypress](https://img.shields.io/badge/Cypress-090909?style=for-the-badge&logo=cypress)
 
 Demo autotests
-- <a href="https://github.com/normal64/grazeAutomation">Selenium</a>
-- <a href="https://github.com/normal64/x-com">Cypress</a>
-- <a href="https://github.com/normal64/Epam-webriverIO-HT">WDIO</a>
-- <a href="https://github.com/normal64/playwright">Playwright</a> 
+- <a href="https://github.com/normal64/Epam-webriverIO-HT">WDIO</a> - Autotests with WebDriverIO with and without POM implementation 
+- <a href="https://github.com/normal64/playwright">Playwright</a> - Autotests with Playwright using different methods and POM
+- <a href="https://github.com/normal64/grazeAutomation">Selenium</a> - Autotest for positive order and negative cases.
+- <a href="https://github.com/normal64/x-com">Cypress</a>  - Autotest for https://www.x-kom.pl
+
 
 Documentation
 - <a href="https://drive.google.com/drive/u/0/folders/1Ti4HoHVZMDCkfhyD-o6ehYG1IArxlLqY">Checklists</a>
